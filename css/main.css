@@ -200,7 +200,7 @@ img {
       border-color: #ffbc00; }
 
 #header-home {
-  background: url("/dist/img/showcase2.jpg") no-repeat center right/cover;
+  background: url("../img/showcase2.jpg") no-repeat center right/cover;
   height: 100vh; }
   #header-home .header-content {
     text-align: center;
@@ -215,7 +215,7 @@ img {
     text-transform: lowercase; }
 
 #header-inner {
-  background: url("/dist/img/showcase2.jpg") no-repeat 10% 10%/cover;
+  background: url("../img/showcase2.jpg") no-repeat 10% 10%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #ffbc00; }
 
