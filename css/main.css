@@ -200,11 +200,7 @@ img {
       border-color: #ffbc00; }
 
 #header-home {
-<<<<<<< HEAD
-  background: url("../img/showcase2.jpg") no-repeat center right/cover;
-=======
   background: url("/img/showcase2.jpg") no-repeat center right/cover;
->>>>>>> c35565a647591ab906904dec8d5b91f58cd55b5f
   height: 100vh; }
   #header-home .header-content {
     text-align: center;
